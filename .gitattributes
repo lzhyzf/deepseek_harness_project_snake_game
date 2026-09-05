@@ -1,0 +1,7 @@
+# 行尾与二进制处理
+* text=auto
+*.bat binary
+*.png binary
+*.apk binary
+*.jar binary
+*.keystore binary
