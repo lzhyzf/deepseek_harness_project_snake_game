@@ -1,0 +1,14 @@
+{
+  "name": "贪吃蛇 Snake",
+  "short_name": "贪吃蛇",
+  "description": "经典贪吃蛇游戏：积分挑战、升级提速、新手教程，支持键盘与触屏操作。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
