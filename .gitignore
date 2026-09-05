@@ -1,0 +1,17 @@
+# 本地开发工具链（JDK / Android SDK，约 550MB，含本机路径）——不随仓库分发
+dev-tools/
+# APK 签名密钥（隐私，禁止上传）
+*.keystore
+# 构建中间产物
+android-app/build/
+# 本地自动化验证产物
+shots/
+verify.mjs
+gh-publish.mjs
+gh-probe.mjs
+# 一次性环境搭建脚本（含本机绝对路径）
+android-app/build-scripts/
+# 杂项
+*.part
+.DS_Store
+Thumbs.db
